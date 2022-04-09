@@ -53,6 +53,8 @@
   * CVE-2020-15081 on [PrestaShop](https://github.com/PrestaShop/PrestaShop/security/advisories/GHSA-997j-f42g-x57c)
   * Top 3 in duo with [Reptou](https://twitter.com/R_Marot) during a YesWeHack live event.
 
+<h2 align="center">Github Statistics</h2>
+
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=JoshuaMart&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
