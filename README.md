@@ -36,7 +36,19 @@
 <h2 align="center">Latest Blog Posts</h2>
 
 <p align="center">
-    * XX
+  * [Basic Recon to RCE II](https://www.jomar.fr/posts/2022/basic_recon_to_rce_ii/)
+  * [Mass assignment and learning new things](https://www.bugbountyhunter.com/articles/?on=mass-assignment-and-learning-new-things)
+  * [My methodology during Firstblood Event](https://www.bugbountyhunter.com/articles/?on=firstbloodhackers)
+</p>
+
+<h2 align="center">Some Successes</h2>
+
+<p align="center">
+  * CVE-2021-41262 & CVE-2021-41261 & CVE-2021-41260 on [Galette](https://github.com/galette/galette/security)
+  * CVE-2020-25070 & CVE-2020-25069 on [USVN](http://www.usvn.info/news.html) with [Serizao](https://twitter.com/WilliamSerizao)
+  * CVE-2020-15081 on [PrestaShop](https://github.com/PrestaShop/PrestaShop/security/advisories/GHSA-997j-f42g-x57c)
+  * CVE-2020-15081 on [PrestaShop](https://github.com/PrestaShop/PrestaShop/security/advisories/GHSA-997j-f42g-x57c)
+  * Top 3 in duo with [Reptou](https://twitter.com/R_Marot) during a YesWeHack live event.
 </p>
 
 <p align="center">
