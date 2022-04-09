@@ -43,10 +43,11 @@
 
 <h2 align="center">Some Successes</h2>
 
-<p align="center">
   * CVE-2021-41262 & CVE-2021-41261 & CVE-2021-41260 on [Galette](https://github.com/galette/galette/security)
   * CVE-2020-25070 & CVE-2020-25069 on [USVN](http://www.usvn.info/news.html) with [Serizao](https://twitter.com/WilliamSerizao)
-</p>
+  * CVE-2020-15081 on [PrestaShop](https://github.com/PrestaShop/PrestaShop/security/advisories/GHSA-997j-f42g-x57c)
+  * CVE-2020-15081 on [PrestaShop](https://github.com/PrestaShop/PrestaShop/security/advisories/GHSA-997j-f42g-x57c)
+  * Top 3 in duo with [Reptou](https://twitter.com/R_Marot) during a YesWeHack live event.
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=JoshuaMart&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
