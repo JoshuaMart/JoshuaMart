@@ -47,6 +47,8 @@
   <ul>
     <li>CVE-2021-41262 & CVE-2021-41261 & CVE-2021-41260 on [Galette](https://github.com/galette/galette/security)</li>
   </ul>
+  
+  * CVE-2020-25070 & CVE-2020-25069 on [USVN](http://www.usvn.info/news.html) with [Serizao](https://twitter.com/WilliamSerizao)
 </p>
 
 <p align="center">
