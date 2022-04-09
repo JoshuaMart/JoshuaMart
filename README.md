@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jomar</h1>
-<h3 align="center">A passionate research engineer at Tenable.</h3>
+<h3 align="center">A passionate research engineer at Tenable the day and BugHunter the night.</h3>
 
 <p align="center">
   <a href="https:/twitter.com/j0_mart">
@@ -15,7 +15,20 @@
   <a href="mailto:contact@jomar.fr">
     <img src="https://img.shields.io/badge/contact@jomar.fr-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
+</p>
 
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Bootstrap-gray?style=flat-square&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/-Nodejs-gray?style=flat-square&logo=Node.js"/>
+  <img src="https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php"/>
+  <img src="https://img.shields.io/badge/-Ruby-gray?style=flat-square&logo=ruby"/>
+  <img src="https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-Postgresql-gray?style=flat-square&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/-Docker-gray?style=flat-square&logo=docker"/>
 </p>
 
 <p align="center">
