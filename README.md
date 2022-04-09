@@ -29,6 +29,14 @@
   <img src="https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-Docker-gray?style=flat-square&logo=docker"/>
+  <img src="https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux"/>
+</p>
+
+
+<h2 align="center">Latest Blog Posts</h2>
+
+<p align="center">
+    * XX
 </p>
 
 <p align="center">
