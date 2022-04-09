@@ -17,6 +17,12 @@
   </a>
 </p>
 
+<p align="center">  
+  <a href="https://yeswehack.com/hunters/jomar">YesWeHack</a> •  
+  <a href="https://app.intigriti.com/profile/jomar">Intigriti</a> •  
+  <a href="https://www.bugbountyhunter.com/hunter/jomar">BBHunter</a>
+</p>  
+
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
