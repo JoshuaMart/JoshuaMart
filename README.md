@@ -35,11 +35,9 @@
 
 <h2 align="center">Latest Blog Posts</h2>
 
-<p align="center">
   * [Basic Recon to RCE II](https://www.jomar.fr/posts/2022/basic_recon_to_rce_ii/)
   * [Mass assignment and learning new things](https://www.bugbountyhunter.com/articles/?on=mass-assignment-and-learning-new-things)
   * [My methodology during Firstblood Event](https://www.bugbountyhunter.com/articles/?on=firstbloodhackers)
-</p>
 
 <h2 align="center">Some Successes</h2>
 
