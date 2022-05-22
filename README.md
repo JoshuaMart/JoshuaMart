@@ -41,6 +41,7 @@
 
 <h2 align="center">Latest Blog Posts</h2>
 
+  * [DNS Tools Comparison](https://www.jomar.fr/posts/2022/dns_tools_comparison/)
   * [Basic Recon to RCE II](https://www.jomar.fr/posts/2022/basic_recon_to_rce_ii/)
   * [Mass assignment and learning new things](https://www.bugbountyhunter.com/articles/?on=mass-assignment-and-learning-new-things)
   * [My methodology during Firstblood Event](https://www.bugbountyhunter.com/articles/?on=firstbloodhackers)
@@ -52,6 +53,7 @@
   * CVE-2020-15081 on [PrestaShop](https://github.com/PrestaShop/PrestaShop/security/advisories/GHSA-997j-f42g-x57c)
   * CVE-2020-15081 on [PrestaShop](https://github.com/PrestaShop/PrestaShop/security/advisories/GHSA-997j-f42g-x57c)
   * Top 3 in duo with [Reptou](https://twitter.com/R_Marot) during a YesWeHack live event.
+  * CVE-2022-1737 on [Metasonic Doc WebClient](https://www.tenable.com/security/research/tra-2022-17)
 
 <h2 align="center">Github Statistics</h2>
 
