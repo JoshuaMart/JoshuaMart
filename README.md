@@ -27,7 +27,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Bootstrap-gray?style=flat-square&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/-Nodejs-gray?style=flat-square&logo=Node.js"/>
   <img src="https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php"/>
   <img src="https://img.shields.io/badge/-Ruby-gray?style=flat-square&logo=ruby"/>
   <img src="https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql"/>
@@ -40,11 +39,10 @@
 
 
 <h2 align="center">Latest Blog Posts</h2>
-
+  * [Basic Recon to RCE II](https://www.jomar.fr/posts/2022/basic_recon_to_rce_iiI/)
   * [DNS Tools Comparison](https://www.jomar.fr/posts/2022/dns_tools_comparison/)
   * [Basic Recon to RCE II](https://www.jomar.fr/posts/2022/basic_recon_to_rce_ii/)
   * [Mass assignment and learning new things](https://www.bugbountyhunter.com/articles/?on=mass-assignment-and-learning-new-things)
-  * [My methodology during Firstblood Event](https://www.bugbountyhunter.com/articles/?on=firstbloodhackers)
 
 <h2 align="center">Some Successes</h2>
 
@@ -54,10 +52,10 @@
   * CVE-2020-15081 on [PrestaShop](https://github.com/PrestaShop/PrestaShop/security/advisories/GHSA-997j-f42g-x57c)
   * Top 3 in duo with [Reptou](https://twitter.com/R_Marot) during a YesWeHack live event.
   * CVE-2022-1737 on [Metasonic Doc WebClient](https://www.tenable.com/security/research/tra-2022-17)
+  * CVE-2022-38131 on [RStudio Connect](https://www.tenable.com/security/research/tra-2022-30)
 
 <h2 align="center">Github Statistics</h2>
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=JoshuaMart&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
-
