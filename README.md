@@ -54,12 +54,12 @@
 
 <h2 align="center"># Achievement & CVE</h2>
 
-  * [CVE-2023-0448](https://www.tenable.com/cve/CVE-2023-23491) on [WP Helper Lite](https://wordpress.org/plugins/wp-helper-lite/)
-  * [CVE-2023-23492](https://www.tenable.com/cve/CVE-2023-23491) on [Login with Phone Number](https://wordpress.org/plugins/login-with-phone-number/)
-  * [CVE-2023-23491](https://www.tenable.com/cve/CVE-2023-23491) on [Quick Event Manager](https://wordpress.org/plugins/quick-event-manager/)
-  * [CVE-2023-23490](https://www.tenable.com/cve/CVE-2023-23490) on [Survey Maker](https://wordpress.org/plugins/survey-maker)
-  * [CVE-2023-23489](https://www.tenable.com/cve/CVE-2023-23489) on [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/)
-  * [CVE-2023-23488](https://www.tenable.com/cve/CVE-2023-23488) on [Paid Memberships Pro](https://wordpress.org/plugins/paid-memberships-pro)
+  * [CVE-2023-0448](https://www.tenable.com/security/research/tra-2023-3) on [WP Helper Lite](https://wordpress.org/plugins/wp-helper-lite/)
+  * [CVE-2023-23492](https://www.tenable.com/security/research/tra-2023-3) on [Login with Phone Number](https://wordpress.org/plugins/login-with-phone-number/)
+  * [CVE-2023-23491](https://www.tenable.com/security/research/tra-2023-3) on [Quick Event Manager](https://wordpress.org/plugins/quick-event-manager/)
+  * [CVE-2023-23490](https://www.tenable.com/security/research/tra-2023-2) on [Survey Maker](https://wordpress.org/plugins/survey-maker)
+  * [CVE-2023-23489](https://www.tenable.com/security/research/tra-2023-2) on [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/)
+  * [CVE-2023-23488](https://www.tenable.com/security/research/tra-2023-2) on [Paid Memberships Pro](https://wordpress.org/plugins/paid-memberships-pro)
   * [CVE-2022-1737](https://nvd.nist.gov/vuln/detail/CVE-2022-1737) on [Metasonic Doc WebClient](https://www.tenable.com/security/research/tra-2022-17)
   * [CVE-2022-38131](https://nvd.nist.gov/vuln/detail/CVE-2022-38131) on [RStudio Connect](https://www.tenable.com/security/research/tra-2022-30)
   * [CVE-2021-41262](https://nvd.nist.gov/vuln/detail/CVE-2021-41262) & [CVE-2021-41261](https://nvd.nist.gov/vuln/detail/CVE-2021-41261) & [CVE-2021-41260](https://nvd.nist.gov/vuln/detail/CVE-2021-41260) on [Galette](https://github.com/galette/galette/security)
