@@ -1,17 +1,16 @@
+
 <h1 align="center">Hi 👋, I'm Jomar</h1>
 <h3 align="center">A passionate research engineer at Tenable the day and BugHunter the night.</h3>
 
 <p align="center">
   <a href="https:/twitter.com/j0_mart">
-    <img src="https://img.shields.io/twitter/follow/j0_mart?style=for-the-badge&label=%40j0_mart&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">  </a>
+    <img src="https://img.shields.io/badge/-J0_Mart-blue?style=for-the-badge&logo=Twitter&logoColor=00AEFF&labelColor=black&color=black">  </a>
   <a href="https://www.linkedin.com/in/joshua-martinelle-a34911133/">
     <img src="https://img.shields.io/badge/-Joshua%20Martinelle-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  
   <a href="https://www.jomar.fr/">
     <img src="https://img.shields.io/badge/www.jomar.fr-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  
   <a href="mailto:contact@jomar.fr">
     <img src="https://img.shields.io/badge/contact@jomar.fr-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
@@ -27,6 +26,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Bootstrap-gray?style=flat-square&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/-Javascript-gray?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Golang-gray?style=flat-square&logo=go"/>
   <img src="https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php"/>
   <img src="https://img.shields.io/badge/-Ruby-gray?style=flat-square&logo=ruby"/>
   <img src="https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql"/>
@@ -43,17 +44,28 @@
   * [Basic Recon to RCE III](https://www.jomar.fr/posts/2022/basic_recon_to_rce_iiI/)  
   * [DNS Tools Comparison](https://www.jomar.fr/posts/2022/dns_tools_comparison/)  
   * [Basic Recon to RCE II](https://www.jomar.fr/posts/2022/basic_recon_to_rce_ii/)  
+
+<h2 align="center"># External contribution</h2>
+
+  * [Identifying XML External Entity](https://fr.tenable.com/blog/identifying-xml-external-entity-how-tenable-io-web-application-scanning-can-help)
+  * [Identifying Server Side Request Forgery](https://fr.tenable.com/blog/identifying-server-side-request-forgery-how-tenable-io-web-application-scanning-can-help)
   * [Mass assignment and learning new things](https://www.bugbountyhunter.com/articles/?on=mass-assignment-and-learning-new-things)
+  * [My Methodology during Firstblood](https://www.bugbountyhunter.com/articles/?on=firstbloodhackers)
 
-<h2 align="center">Some Successes</h2>
+<h2 align="center"># Achievement & CVE</h2>
 
-  * CVE-2021-41262 & CVE-2021-41261 & CVE-2021-41260 on [Galette](https://github.com/galette/galette/security)
-  * CVE-2020-25070 & CVE-2020-25069 on [USVN](http://www.usvn.info/news.html) with [Serizao](https://twitter.com/WilliamSerizao)
-  * CVE-2020-15081 on [PrestaShop](https://github.com/PrestaShop/PrestaShop/security/advisories/GHSA-997j-f42g-x57c)
-  * CVE-2020-15081 on [PrestaShop](https://github.com/PrestaShop/PrestaShop/security/advisories/GHSA-997j-f42g-x57c)
+  * [CVE-2023-0448](https://www.tenable.com/cve/CVE-2023-23491) on [WP Helper Lite](https://wordpress.org/plugins/wp-helper-lite/)
+  * [CVE-2023-23492](https://www.tenable.com/cve/CVE-2023-23491) on [Login with Phone Number](https://wordpress.org/plugins/login-with-phone-number/)
+  * [CVE-2023-23491](https://www.tenable.com/cve/CVE-2023-23491) on [Quick Event Manager](https://wordpress.org/plugins/quick-event-manager/)
+  * [CVE-2023-23490](https://www.tenable.com/cve/CVE-2023-23490) on [Survey Maker](https://wordpress.org/plugins/survey-maker)
+  * [CVE-2023-23489](https://www.tenable.com/cve/CVE-2023-23489) on [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/)
+  * [CVE-2023-23488](https://www.tenable.com/cve/CVE-2023-23488) on [Paid Memberships Pro](https://wordpress.org/plugins/paid-memberships-pro)
+  * [CVE-2022-1737](https://nvd.nist.gov/vuln/detail/CVE-2022-1737) on [Metasonic Doc WebClient](https://www.tenable.com/security/research/tra-2022-17)
+  * [CVE-2022-38131](https://nvd.nist.gov/vuln/detail/CVE-2022-38131) on [RStudio Connect](https://www.tenable.com/security/research/tra-2022-30)
+  * [CVE-2021-41262](https://nvd.nist.gov/vuln/detail/CVE-2021-41262) & [CVE-2021-41261](https://nvd.nist.gov/vuln/detail/CVE-2021-41261) & [CVE-2021-41260](https://nvd.nist.gov/vuln/detail/CVE-2021-41260) on [Galette](https://github.com/galette/galette/security)
+  * [CVE-2020-25070](https://nvd.nist.gov/vuln/detail/CVE-2020-25070) & [CVE-2020-25069](https://nvd.nist.gov/vuln/detail/CVE-2020-25069) on [USVN](http://www.usvn.info/news.html) with [Serizao](https://twitter.com/WilliamSerizao)
+  * [CVE-2020-15081](https://nvd.nist.gov/vuln/detail/CVE-2020-15081) on [PrestaShop](https://github.com/PrestaShop/PrestaShop/security/advisories/GHSA-997j-f42g-x57c)
   * Top 3 in duo with [Reptou](https://twitter.com/R_Marot) during a YesWeHack live event.
-  * CVE-2022-1737 on [Metasonic Doc WebClient](https://www.tenable.com/security/research/tra-2022-17)
-  * CVE-2022-38131 on [RStudio Connect](https://www.tenable.com/security/research/tra-2022-30)
 
 <h2 align="center">Github Statistics</h2>
 
