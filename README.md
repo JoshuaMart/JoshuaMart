@@ -38,15 +38,15 @@
   <img src="https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux"/>
 </p>
 
-
 <h2 align="center">Latest Blog Posts</h2>
 
-  * [Basic Recon to RCE III](https://www.jomar.fr/posts/2022/basic_recon_to_rce_iiI/)  
+  * [Bruteforce vs Permutations](https://www.jomar.fr/posts/2023/bruteforce_vs_permutations/)) 
+  * [Basic Recon to RCE III](https://www.jomar.fr/posts/2022/basic_recon_to_rce_iii/)  
   * [DNS Tools Comparison](https://www.jomar.fr/posts/2022/dns_tools_comparison/)  
-  * [Basic Recon to RCE II](https://www.jomar.fr/posts/2022/basic_recon_to_rce_ii/)  
 
 <h2 align="center"># External contribution</h2>
 
+  * [Password Management and Authentication Best Practices](https://www.tenable.com/blog/password-management-and-authentication-best-practices)
   * [Identifying XML External Entity](https://fr.tenable.com/blog/identifying-xml-external-entity-how-tenable-io-web-application-scanning-can-help)
   * [Identifying Server Side Request Forgery](https://fr.tenable.com/blog/identifying-server-side-request-forgery-how-tenable-io-web-application-scanning-can-help)
   * [Mass assignment and learning new things](https://www.bugbountyhunter.com/articles/?on=mass-assignment-and-learning-new-things)
@@ -54,6 +54,7 @@
 
 <h2 align="center"># Achievement & CVE</h2>
 
+  * [CVE-2023-4137](https://www.tenable.com/security/research/tra-2023-26) on [AYS Popup Box](https://wordpress.org/plugins/ays-popup-box/)
   * [CVE-2023-28667](https://www.tenable.com/security/research/tra-2023-7) on [Lead Generated](https://wordpress.org/plugins/lead-generated/)
   * [CVE-2023-28666](https://www.tenable.com/cve/CVE-2023-28666) on [InPost Gallery WordPress plugin](https://wordpress.org/support/plugin/inpost-gallery/)
   * [CVE-2023-28665](https://www.tenable.com/cve/CVE-2023-28665) on [Bulk Price Update](https://wordpress.org/plugins/woo-bulk-price-update/)
