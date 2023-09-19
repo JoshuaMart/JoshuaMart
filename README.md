@@ -64,6 +64,7 @@
   * [CVE-2023-28661](https://www.tenable.com/cve/CVE-2023-28661) on [WP Popup Banners](https://wordpress.org/plugins/p-popup-banners/)
   * [CVE-2023-28660](https://www.tenable.com/cve/CVE-2023-28660) on [Events Made Easy](https://wordpress.org/plugins/events-made-easy/)
   * [CVE-2023-28659](https://www.tenable.com/cve/CVE-2023-28659) on [Waiting: One-click countdowns](https://wordpress.org/plugins/waiting/)
+  * [CVE-2023-28017](https://www.tenable.com/security/research/tra-2023-20) on [CraftCMS](https://github.com/craftcms/cms)
   * [CVE-2023-26326](https://www.tenable.com/security/research/tra-2023-7) on [Buddyforms](https://wordpress.org/plugins/buddyforms/)
   * [CVE-2023-26325](https://www.tenable.com/cve/CVE-2023-26325) on [ReviewX](https://wordpress.org/plugins/reviewx/)
   * [CVE-2023-23492](https://www.tenable.com/security/research/tra-2023-3) on [Login with Phone Number](https://wordpress.org/plugins/login-with-phone-number/)
