@@ -85,45 +85,48 @@ des protections loin d’être suffisantes !](https://www.synetis.com/amsi-antiv
 <details>
   <summary>2023</summary>
   
-  * [CVE-2023-4137](https://www.tenable.com/security/research/tra-2023-26) on [AYS Popup Box](https://wordpress.org/plugins/ays-popup-box/)
-  * [CVE-2023-28667](https://www.tenable.com/security/research/tra-2023-7) on [Lead Generated](https://wordpress.org/plugins/lead-generated/)
-  * [CVE-2023-28666](https://www.tenable.com/cve/CVE-2023-28666) on [InPost Gallery WordPress plugin](https://wordpress.org/support/plugin/inpost-gallery/)
-  * [CVE-2023-28665](https://www.tenable.com/cve/CVE-2023-28665) on [Bulk Price Update](https://wordpress.org/plugins/woo-bulk-price-update/)
-  * [CVE-2023-28664](https://www.tenable.com/cve/CVE-2023-28664) on [MDTF – Meta Data and Taxonomies Filter](https://wordpress.org/plugins/wp-meta-data-filter-and-taxonomy-filter/)
-  * [CVE-2023-28663](https://www.tenable.com/cve/CVE-2023-28663) on [Formidable PRO2PDF](https://wordpress.org/plugins/formidablepro-2-pdf//)
-  * [CVE-2023-28662](https://www.tenable.com/cve/CVE-2023-28662) on [Gift Vouchers and Packages](https://wordpress.org/plugins/gift-voucher/)
-  * [CVE-2023-28661](https://www.tenable.com/cve/CVE-2023-28661) on [WP Popup Banners](https://wordpress.org/plugins/p-popup-banners/)
-  * [CVE-2023-28660](https://www.tenable.com/cve/CVE-2023-28660) on [Events Made Easy](https://wordpress.org/plugins/events-made-easy/)
-  * [CVE-2023-28659](https://www.tenable.com/cve/CVE-2023-28659) on [Waiting: One-click countdowns](https://wordpress.org/plugins/waiting/)
-  * [CVE-2023-28017](https://www.tenable.com/security/research/tra-2023-20) on [CraftCMS](https://github.com/craftcms/cms)
-  * [CVE-2023-26326](https://www.tenable.com/security/research/tra-2023-7) on [Buddyforms](https://wordpress.org/plugins/buddyforms/)
-  * [CVE-2023-26325](https://www.tenable.com/cve/CVE-2023-26325) on [ReviewX](https://wordpress.org/plugins/reviewx/)
-  * [CVE-2023-23492](https://www.tenable.com/security/research/tra-2023-3) on [Login with Phone Number](https://wordpress.org/plugins/login-with-phone-number/)
-  * [CVE-2023-23491](https://www.tenable.com/security/research/tra-2023-3) on [Quick Event Manager](https://wordpress.org/plugins/quick-event-manager/)
-  * [CVE-2023-23490](https://www.tenable.com/security/research/tra-2023-2) on [Survey Maker](https://wordpress.org/plugins/survey-maker)
-  * [CVE-2023-23489](https://www.tenable.com/security/research/tra-2023-2) on [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/)
-  * [CVE-2023-23488](https://www.tenable.com/security/research/tra-2023-2) on [Paid Memberships Pro](https://wordpress.org/plugins/paid-memberships-pro)
-  * [CVE-2023-0448](https://www.tenable.com/security/research/tra-2023-3) on [WP Helper Lite](https://wordpress.org/plugins/wp-helper-lite/)
+  * [CVE-2023-4137](https://www.tenable.com/security/research/tra-2023-26) - Unauthenticated Reflected Cross-Site Scripting on [AYS Popup Box](https://wordpress.org/plugins/ays-popup-box/)
+  * [CVE-2023-28667](https://www.tenable.com/security/research/tra-2023-7) - Unauthenticated Insecure Deserialization on [Lead Generated](https://wordpress.org/plugins/lead-generated/)
+  * [CVE-2023-28666](https://www.tenable.com/cve/CVE-2023-28666) - Authenticated Reflected Cross-Site Scripting on [InPost Gallery WordPress plugin](https://wordpress.org/support/plugin/inpost-gallery/)
+  * [CVE-2023-28665](https://www.tenable.com/cve/CVE-2023-28665) - Authenticated Reflected Cross-Site Scripting on [Bulk Price Update](https://wordpress.org/plugins/woo-bulk-price-update/)
+  * [CVE-2023-28664](https://www.tenable.com/cve/CVE-2023-28664) - Authenticated Reflected Cross-Site Scripting on [MDTF – Meta Data and Taxonomies Filter](https://wordpress.org/plugins/wp-meta-data-filter-and-taxonomy-filter/)
+  * [CVE-2023-28663](https://www.tenable.com/cve/CVE-2023-28663) - Authenticated SQL Injection on [Formidable PRO2PDF](https://wordpress.org/plugins/formidablepro-2-pdf//)
+  * [CVE-2023-28662](https://www.tenable.com/cve/CVE-2023-28662) - Unauthenticated SQL Injection on [Gift Vouchers and Packages](https://wordpress.org/plugins/gift-voucher/)
+  * [CVE-2023-28661](https://www.tenable.com/cve/CVE-2023-28661) - Authenticated SQL Injection on [WP Popup Banners](https://wordpress.org/plugins/p-popup-banners/)
+  * [CVE-2023-28660](https://www.tenable.com/cve/CVE-2023-28660) - Authenticated SQL Injection on [Events Made Easy](https://wordpress.org/plugins/events-made-easy/)
+  * [CVE-2023-28659](https://www.tenable.com/cve/CVE-2023-28659) - Authenticated SQL Injection on [Waiting: One-click countdowns](https://wordpress.org/plugins/waiting/)
+  * [CVE-2023-28017](https://www.tenable.com/security/research/tra-2023-20) - Stored Cross-Site Scripting on [CraftCMS](https://github.com/craftcms/cms)
+  * [CVE-2023-26326](https://www.tenable.com/security/research/tra-2023-7) - Unauthenticated Insecure Deserialization on [Buddyforms](https://wordpress.org/plugins/buddyforms/)
+  * [CVE-2023-26325](https://www.tenable.com/cve/CVE-2023-26325) - Authenticated SQL Injection on [ReviewX](https://wordpress.org/plugins/reviewx/)
+  * [CVE-2023-23492](https://www.tenable.com/security/research/tra-2023-3) - Unauthenticated Reflected Cross-Site Scripting on [Login with Phone Number](https://wordpress.org/plugins/login-with-phone-number/)
+  * [CVE-2023-23491](https://www.tenable.com/security/research/tra-2023-3) - Unauthenticated Reflected Cross-Site Scripting on [Quick Event Manager](https://wordpress.org/plugins/quick-event-manager/)
+  * [CVE-2023-23490](https://www.tenable.com/security/research/tra-2023-2) - Authenticated SQL Injection on [Survey Maker](https://wordpress.org/plugins/survey-maker)
+  * [CVE-2023-23489](https://www.tenable.com/security/research/tra-2023-2) - Unauthenticated SQL Injection on [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/)
+  * [CVE-2023-23488](https://www.tenable.com/security/research/tra-2023-2) - Unauthenticated SQL Injection on [Paid Memberships Pro](https://wordpress.org/plugins/paid-memberships-pro)
+  * [CVE-2023-0448](https://www.tenable.com/security/research/tra-2023-3) - Unauthenticated Reflected Cross-Site Scripting on [WP Helper Lite](https://wordpress.org/plugins/wp-helper-lite/)
 </details>
 
 <details>
   <summary>2022</summary>
   
-  * [CVE-2022-1737](https://nvd.nist.gov/vuln/detail/CVE-2022-1737) on [Metasonic Doc WebClient](https://www.tenable.com/security/research/tra-2022-17)
-  * [CVE-2022-38131](https://nvd.nist.gov/vuln/detail/CVE-2022-38131) on [RStudio Connect](https://www.tenable.com/security/research/tra-2022-30)
+  * [CVE-2022-1731](https://nvd.nist.gov/vuln/detail/CVE-2022-1731) - Unauthenticated SQL Injection on [Metasonic Doc WebClient](https://www.tenable.com/security/research/tra-2022-17)
+  * [CVE-2022-38131](https://nvd.nist.gov/vuln/detail/CVE-2022-38131) - Unauthenticated Open Redirect on [RStudio Connect](https://www.tenable.com/security/research/tra-2022-30)
 </details>
 
 <details>
   <summary>2021</summary>
   
-  * [CVE-2021-41262](https://nvd.nist.gov/vuln/detail/CVE-2021-41262) & [CVE-2021-41261](https://nvd.nist.gov/vuln/detail/CVE-2021-41261) & [CVE-2021-41260](https://nvd.nist.gov/vuln/detail/CVE-2021-41260) on [Galette](https://github.com/galette/galette/security)
+  * [CVE-2021-41262](https://nvd.nist.gov/vuln/detail/CVE-2021-41262) - Authenticated SQL Injection on [Galette](https://github.com/galette/galette/)
+  * [CVE-2021-41261](https://nvd.nist.gov/vuln/detail/CVE-2021-41261) - Authenticated Stored Cross-Site Scripting on [Galette](https://github.com/galette/galette/)
+  * [CVE-2021-41260](https://nvd.nist.gov/vuln/detail/CVE-2021-41260) - Cross-Site Request Forgery on [Galette](https://github.com/galette/galette/)
 </details>
 
 <details>
   <summary>2020</summary>
   
-  * [CVE-2020-25070](https://nvd.nist.gov/vuln/detail/CVE-2020-25070) & [CVE-2020-25069](https://nvd.nist.gov/vuln/detail/CVE-2020-25069) on [USVN](http://www.usvn.info/news.html) with [Serizao](https://twitter.com/WilliamSerizao)
-  * [CVE-2020-15081](https://nvd.nist.gov/vuln/detail/CVE-2020-15081) on [PrestaShop](https://github.com/PrestaShop/PrestaShop/security/advisories/GHSA-997j-f42g-x57c)
+  * [CVE-2020-25070](https://nvd.nist.gov/vuln/detail/CVE-2020-25070) - Cross-Site Request Forgery on [USVN](http://www.usvn.info/news.html) with [Serizao](https://twitter.com/WilliamSerizao)
+  * [CVE-2020-25069](https://nvd.nist.gov/vuln/detail/CVE-2020-25069) - Remote Code Execution on [USVN](http://www.usvn.info/news.html) with [Serizao](https://twitter.com/WilliamSerizao)
+  * [CVE-2020-15081](https://nvd.nist.gov/vuln/detail/CVE-2020-15081) - Exposure of Sensitive Information on [PrestaShop](https://github.com/PrestaShop/PrestaShop/security/advisories/GHSA-997j-f42g-x57c)
   * Top 3 in duo with [Reptou](https://twitter.com/R_Marot) during a YesWeHack live event.
 </details>
 
