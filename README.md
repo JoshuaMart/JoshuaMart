@@ -49,6 +49,7 @@
 
 <details>
   <summary>Tenable Blog</summary>
+  
   * [Password Management and Authentication Best Practices](https://www.tenable.com/blog/password-management-and-authentication-best-practices)
   * [Identifying XML External Entity](https://fr.tenable.com/blog/identifying-xml-external-entity-how-tenable-io-web-application-scanning-can-help)
   * [Identifying Server Side Request Forgery](https://fr.tenable.com/blog/identifying-server-side-request-forgery-how-tenable-io-web-application-scanning-can-help)
@@ -57,9 +58,9 @@
 <details>
   <summary>Tenable Medium</summary>
 
-    * [WordPress BuddyForms Plugin — Unauthenticated Insecure Deserialization (CVE-2023–26326)](https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8)
-    * [Multiples WordPress plugins CVE analysis](https://medium.com/tenable-techblog/multiples-wordpress-plugins-cve-analysis-28843a8b8fd0)
-    * [Wordpress 6.0.3 Patch Analysis](https://medium.com/tenable-techblog/wordpress-6-0-3-patch-analysis-6a2c0707cda6)
+  * [WordPress BuddyForms Plugin — Unauthenticated Insecure Deserialization (CVE-2023–26326)](https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8)
+  * [Multiples WordPress plugins CVE analysis](https://medium.com/tenable-techblog/multiples-wordpress-plugins-cve-analysis-28843a8b8fd0)
+  * [Wordpress 6.0.3 Patch Analysis](https://medium.com/tenable-techblog/wordpress-6-0-3-patch-analysis-6a2c0707cda6)
 </details>
 
 <details>
@@ -71,6 +72,7 @@
   
 <details>
   <summary>Synetis Blog</summary>
+  
   * [AMSI et Antivirus :
 des protections loin d’être suffisantes !](https://www.synetis.com/amsi-antivirus/)
   * [Gestion des mots de passe côté backend, Hash & Assaisonnement !](https://www.synetis.com/gestion-mdp/)
@@ -82,6 +84,7 @@ des protections loin d’être suffisantes !](https://www.synetis.com/amsi-antiv
 
 <details>
   <summary>2023</summary>
+  
   * [CVE-2023-4137](https://www.tenable.com/security/research/tra-2023-26) on [AYS Popup Box](https://wordpress.org/plugins/ays-popup-box/)
   * [CVE-2023-28667](https://www.tenable.com/security/research/tra-2023-7) on [Lead Generated](https://wordpress.org/plugins/lead-generated/)
   * [CVE-2023-28666](https://www.tenable.com/cve/CVE-2023-28666) on [InPost Gallery WordPress plugin](https://wordpress.org/support/plugin/inpost-gallery/)
@@ -105,17 +108,20 @@ des protections loin d’être suffisantes !](https://www.synetis.com/amsi-antiv
 
 <details>
   <summary>2022</summary>
+  
   * [CVE-2022-1737](https://nvd.nist.gov/vuln/detail/CVE-2022-1737) on [Metasonic Doc WebClient](https://www.tenable.com/security/research/tra-2022-17)
   * [CVE-2022-38131](https://nvd.nist.gov/vuln/detail/CVE-2022-38131) on [RStudio Connect](https://www.tenable.com/security/research/tra-2022-30)
 </details>
 
 <details>
   <summary>2021</summary>
+  
   * [CVE-2021-41262](https://nvd.nist.gov/vuln/detail/CVE-2021-41262) & [CVE-2021-41261](https://nvd.nist.gov/vuln/detail/CVE-2021-41261) & [CVE-2021-41260](https://nvd.nist.gov/vuln/detail/CVE-2021-41260) on [Galette](https://github.com/galette/galette/security)
 </details>
 
 <details>
   <summary>2020</summary>
+  
   * [CVE-2020-25070](https://nvd.nist.gov/vuln/detail/CVE-2020-25070) & [CVE-2020-25069](https://nvd.nist.gov/vuln/detail/CVE-2020-25069) on [USVN](http://www.usvn.info/news.html) with [Serizao](https://twitter.com/WilliamSerizao)
   * [CVE-2020-15081](https://nvd.nist.gov/vuln/detail/CVE-2020-15081) on [PrestaShop](https://github.com/PrestaShop/PrestaShop/security/advisories/GHSA-997j-f42g-x57c)
   * Top 3 in duo with [Reptou](https://twitter.com/R_Marot) during a YesWeHack live event.
