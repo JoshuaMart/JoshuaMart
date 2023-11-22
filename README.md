@@ -56,13 +56,15 @@
 
 <details>
   <summary>Tenable Medium</summary>
-  * [WordPress BuddyForms Plugin — Unauthenticated Insecure Deserialization (CVE-2023–26326)](https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8)
-  * [Multiples WordPress plugins CVE analysis](https://medium.com/tenable-techblog/multiples-wordpress-plugins-cve-analysis-28843a8b8fd0)
-  * [Wordpress 6.0.3 Patch Analysis](https://medium.com/tenable-techblog/wordpress-6-0-3-patch-analysis-6a2c0707cda6)
+
+    * [WordPress BuddyForms Plugin — Unauthenticated Insecure Deserialization (CVE-2023–26326)](https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8)
+    * [Multiples WordPress plugins CVE analysis](https://medium.com/tenable-techblog/multiples-wordpress-plugins-cve-analysis-28843a8b8fd0)
+    * [Wordpress 6.0.3 Patch Analysis](https://medium.com/tenable-techblog/wordpress-6-0-3-patch-analysis-6a2c0707cda6)
 </details>
 
 <details>
   <summary>BugBountyHunter Website</summary>
+
   * [Mass assignment and learning new things](https://www.bugbountyhunter.com/articles/?on=mass-assignment-and-learning-new-things)
   * [My Methodology during Firstblood](https://www.bugbountyhunter.com/articles/?on=firstbloodhackers)
 </details>
