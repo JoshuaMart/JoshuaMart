@@ -3,6 +3,9 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=1000&color=E84A4A&center=true&multiline=true&random=false&width=435&lines=A+passionate+Research+Engineer+at+Tenable+;and+BugHunter" alt="Typing SVG" /></p>
 
 <p align="center">
+  <a href="https://www.jomar.fr/">
+    <img src="https://img.shields.io/badge/www.jomar.fr-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
   <a href="https:/twitter.com/j0_mart">
     <img src="https://img.shields.io/badge/-My_Articles-blue?style=for-the-badge&logo=Substack&logoColor=00AEFF&labelColor=black&color=black">
   </a>
