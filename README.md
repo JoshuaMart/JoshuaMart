@@ -4,15 +4,10 @@
 
 <p align="center">
   <a href="https:/twitter.com/j0_mart">
-    <img src="https://img.shields.io/badge/-J0_Mart-blue?style=for-the-badge&logo=Twitter&logoColor=00AEFF&labelColor=black&color=black">  </a>
+    <img src="https://img.shields.io/badge/-My_Articles-blue?style=for-the-badge&logo=Substack&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
   <a href="https://www.linkedin.com/in/joshua-martinelle-a34911133/">
     <img src="https://img.shields.io/badge/-Joshua%20Martinelle-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-  <a href="https://www.jomar.fr/">
-    <img src="https://img.shields.io/badge/www.jomar.fr-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-  <a href="mailto:contact@jomar.fr">
-    <img src="https://img.shields.io/badge/contact@jomar.fr-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 </p>
 
