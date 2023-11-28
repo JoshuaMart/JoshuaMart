@@ -6,7 +6,7 @@
   <a href="https://www.jomar.fr/">
     <img src="https://img.shields.io/badge/www.jomar.fr-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <a href="https:/twitter.com/j0_mart">
+  <a href="https://j0mar.substack.com/">
     <img src="https://img.shields.io/badge/-My_Articles-blue?style=for-the-badge&logo=Substack&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="https://www.linkedin.com/in/joshua-martinelle-a34911133/">
