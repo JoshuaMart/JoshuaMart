@@ -82,7 +82,8 @@ des protections loin d’être suffisantes !](https://www.synetis.com/amsi-antiv
 
 <details>
   <summary>2023</summary>
-  
+
+  * [CVE-2023-6360](https://www.tenable.com/security/research/tra-2023-40) - Unauthenticated SQL Injection on [My Calendar](https://wordpress.org/plugins/my-calendar/)
   * [CVE-2023-4137](https://www.tenable.com/security/research/tra-2023-26) - Unauthenticated Reflected Cross-Site Scripting on [AYS Popup Box](https://wordpress.org/plugins/ays-popup-box/)
   * [CVE-2023-28667](https://www.tenable.com/security/research/tra-2023-7) - Unauthenticated Insecure Deserialization on [Lead Generated](https://wordpress.org/plugins/lead-generated/)
   * [CVE-2023-28666](https://www.tenable.com/cve/CVE-2023-28666) - Authenticated Reflected Cross-Site Scripting on [InPost Gallery WordPress plugin](https://wordpress.org/support/plugin/inpost-gallery/)
