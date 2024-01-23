@@ -56,6 +56,7 @@
 <details>
   <summary>Tenable Medium</summary>
 
+  * [WordPress MyCalendar Plugin — Unauthenticated SQL Injection(CVE-2023–6360)](https://medium.com/tenable-techblog/wordpress-mycalendar-plugin-unauthenticated-sql-injection-cve-2023-6360-d272887ddf12)
   * [WordPress BuddyForms Plugin — Unauthenticated Insecure Deserialization (CVE-2023–26326)](https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8)
   * [Multiples WordPress plugins CVE analysis](https://medium.com/tenable-techblog/multiples-wordpress-plugins-cve-analysis-28843a8b8fd0)
   * [Wordpress 6.0.3 Patch Analysis](https://medium.com/tenable-techblog/wordpress-6-0-3-patch-analysis-6a2c0707cda6)
