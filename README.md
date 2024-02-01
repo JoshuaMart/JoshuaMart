@@ -1,16 +1,20 @@
+
 <h1 align="center">Hi 👋, I'm Jomar</h1>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=1000&color=E84A4A&center=true&multiline=true&random=false&width=435&lines=A+passionate+Research+Engineer+at+Tenable+;and+BugHunter" alt="Typing SVG" /></p>
 
 <p align="center">
-  <a href="https://www.jomar.fr/">
-    <img src="https://img.shields.io/badge/www.jomar.fr-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=black&color=black">
+  <a href="mailto:contact@jomar.fr">
+    <img src="https://img.shields.io/badge/contact@jomar.fr-0078D4?style=for-the-badge&logo=Gmail&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="https://j0mar.substack.com/">
-    <img src="https://img.shields.io/badge/-My_Articles-blue?style=for-the-badge&logo=Substack&logoColor=00AEFF&labelColor=black&color=black">
+    <img src="https://img.shields.io/badge/-Substack-blue?style=for-the-badge&logo=Substack&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="https://www.linkedin.com/in/joshua-martinelle-a34911133/">
-    <img src="https://img.shields.io/badge/-Joshua%20Martinelle-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  <a href="https://twitter.com/J0_mart">
+    <img src="https://img.shields.io/badge/-J0_mart-blue?style=for-the-badge&logo=X&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 </p>
 
@@ -20,9 +24,13 @@
   <a href="https://www.bugbountyhunter.com/hunter/jomar">BBHunter</a>
 </p>
 
-<p align="center">  Hacker at ❤️, I bring my passion for cybersecurity to my work every day.</p>
+<p>Hacker at ❤️, I bring my passion for cybersecurity to my work every day. With a background in bugbounty, I have a unique perspective on how to identify and remediate potential threats to systems. I have contributed to several projects, including the development of new open source tools, scripts or the discovery of vulnerabilities.</p>
+<p>I am a self-taught who is constantly seeking out new opportunities to grow and develop my skills. Whether it’s through training or hands-on experience, I have a drive to stay ahead of the curve in my field. With my combination of technical aptitude and passion for the industry.</p>
 
-<h2 align="center"># Languages and tools</h2>
+<p>I will continue to work on exciting projects and pursue new challenges, always with a commitment to the field that will only continue to grow. Whether I am working on open source tools, participating in bugbounties, or simply sharing my knowledge with others.</p>
+
+
+<h2>🧰Languages and tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=red" />
@@ -38,13 +46,15 @@
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white" />
 </p>
 
-<h2 align="center"># Latest Blog Posts</h2>
+<h2>📝Blog Posts & External contribution</h2>
 
+<details>
+  <summary>My latest blog posts</summary>
+  
   * [Bruteforce vs Permutations](https://www.jomar.fr/posts/2023/bruteforce_vs_permutations/)
   * [Basic Recon to RCE III](https://www.jomar.fr/posts/2022/basic_recon_to_rce_iii/)  
   * [DNS Tools Comparison](https://www.jomar.fr/posts/2022/dns_tools_comparison/)  
-
-<h2 align="center"># External contribution</h2>
+</details>
 
 <details>
   <summary>Tenable Blog</summary>
@@ -80,7 +90,7 @@ des protections loin d’être suffisantes !](https://www.synetis.com/amsi-antiv
 </details>
   
 
-<h2 align="center"># Achievement & CVE</h2>
+<h2>🏆Achievement & CVE</h2>
 
 <details>
   <summary>2024</summary>
@@ -138,6 +148,6 @@ des protections loin d’être suffisantes !](https://www.synetis.com/amsi-antiv
   * Top 3 in duo with [Reptou](https://twitter.com/R_Marot) during a YesWeHack live event.
 </details>
 
-<h2 align="center"># Github Statistics</h2>
+<h2>📊Github Statistics</h2>
 
 ![JoshuaMart's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaMart\&show_icons=true\&theme=radical) 
