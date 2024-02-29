@@ -50,10 +50,10 @@
 
 <details>
   <summary>My latest blog posts</summary>
-  
-  * [Bruteforce vs Permutations](https://www.jomar.fr/posts/2023/bruteforce_vs_permutations/)
-  * [Basic Recon to RCE III](https://www.jomar.fr/posts/2022/basic_recon_to_rce_iii/)  
-  * [DNS Tools Comparison](https://www.jomar.fr/posts/2022/dns_tools_comparison/)  
+
+  * [Recon - Methods & Architectures](https://j0mar.substack.com/p/recon-methods-and-architectures)
+  * [Bruteforce vs Permutations](https://j0mar.substack.com/p/bruteforce_vs_permutations)
+  * [Basic Recon to RCE III](https://j0mar.substack.com/p/basic_recon_to_rce_iii)
 </details>
 
 <details>
