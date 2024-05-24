@@ -94,7 +94,9 @@ des protections loin d’être suffisantes !](https://www.synetis.com/amsi-antiv
 
 <details>
   <summary>2024</summary>
-  
+
+  * [CVE-2024-4960](https://nvd.nist.gov/vuln/detail/CVE-2024-4860) - Reflected Cross-Site Scripting in [WP RSS Aggregator](https://fr.wordpress.org/plugins/wp-rss-aggregator/)
+  * [CVE-2024-4959](https://nvd.nist.gov/vuln/detail/CVE-2024-4859) - Stored Cross-Site Scripting in [Solidus](https://github.com/solidusio/solidus/)
   * [CVE-2024-1063](https://nvd.nist.gov/vuln/detail/CVE-2024-1063) - Unauthenticated Blind SSRF in [AppWrite](https://www.tenable.com/security/research/tra-2024-03)
   * [CVE-2024-1061](https://nvd.nist.gov/vuln/detail/CVE-2024-1061) - Unauthenticated SQL Injection in [HTML5 Video Player](https://www.tenable.com/security/research/tra-2024-02)
 </details>
