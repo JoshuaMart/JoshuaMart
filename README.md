@@ -49,7 +49,7 @@
 <h2>📝Blog Posts & External contribution</h2>
 
 <details>
-  <summary>My latest blog posts</summary>
+  <summary>My latest personnal blog posts</summary>
 
   * [Recon - Methods & Architectures](https://j0mar.substack.com/p/recon-methods-and-architectures)
   * [Bruteforce vs Permutations](https://j0mar.substack.com/p/bruteforce_vs_permutations)
@@ -58,15 +58,17 @@
 
 <details>
   <summary>Tenable Blog</summary>
-  
+
+  * [Identifying Web Cache Poisoning and Web Cache Deception](https://www.tenable.com/blog/identifying-web-cache-poisoning-and-web-cache-deception-how-tenable-web-app-scanning-can-help)
   * [Password Management and Authentication Best Practices](https://www.tenable.com/blog/password-management-and-authentication-best-practices)
-  * [Identifying XML External Entity](https://fr.tenable.com/blog/identifying-xml-external-entity-how-tenable-io-web-application-scanning-can-help)
-  * [Identifying Server Side Request Forgery](https://fr.tenable.com/blog/identifying-server-side-request-forgery-how-tenable-io-web-application-scanning-can-help)
+  * [Identifying XML External Entity](https://www.tenable.com/blog/identifying-xml-external-entity-how-tenable-io-web-application-scanning-can-help)
+  * [Identifying Server Side Request Forgery](https://www.tenable.com/blog/identifying-server-side-request-forgery-how-tenable-io-web-application-scanning-can-help)
 </details>
 
 <details>
   <summary>Tenable Medium</summary>
 
+  * [Solidus — Code Review](https://medium.com/tenable-techblog/solidus-code-review-7e9b606a5c10)
   * [WordPress MyCalendar Plugin — Unauthenticated SQL Injection(CVE-2023–6360)](https://medium.com/tenable-techblog/wordpress-mycalendar-plugin-unauthenticated-sql-injection-cve-2023-6360-d272887ddf12)
   * [WordPress BuddyForms Plugin — Unauthenticated Insecure Deserialization (CVE-2023–26326)](https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8)
   * [Multiples WordPress plugins CVE analysis](https://medium.com/tenable-techblog/multiples-wordpress-plugins-cve-analysis-28843a8b8fd0)
