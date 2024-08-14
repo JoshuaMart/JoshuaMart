@@ -97,6 +97,7 @@ des protections loin d’être suffisantes !](https://www.synetis.com/amsi-antiv
 <details>
   <summary>2024</summary>
 
+  * [CVE-2024-7790](https://www.tenable.com/security/research/tra-2024-31) - Stored Cross-Site Scripting in [DevikaAI](https://github.com/stitionai/devika)
   * [CVE-2024-7297](https://www.tenable.com/security/research/tra-2024-26) - Privilege Escalation in [Langflow](https://github.com/langflow-ai/langflow)
   * [CVE-2024-4960](https://nvd.nist.gov/vuln/detail/CVE-2024-4860) - Reflected Cross-Site Scripting in [WP RSS Aggregator](https://fr.wordpress.org/plugins/wp-rss-aggregator/)
   * [CVE-2024-4959](https://nvd.nist.gov/vuln/detail/CVE-2024-4859) - Stored Cross-Site Scripting in [Solidus](https://github.com/solidusio/solidus/)
