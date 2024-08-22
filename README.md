@@ -21,7 +21,7 @@
 <p align="center">  
   <a href="https://yeswehack.com/hunters/jomar">YesWeHack</a> •  
   <a href="https://app.intigriti.com/profile/jomar">Intigriti</a> •  
-  <a href="https://www.bugbountyhunter.com/hunter/jomar">BBHunter</a>
+  <a href="https://pentesterlab.com/profile/J0mar">Pentesterlab</a>
 </p>
 
 <p>Hacker at ❤️, I bring my passion for cybersecurity to my work every day. With a background in bugbounty, I have a unique perspective on how to identify and remediate potential threats to systems. I have contributed to several projects, including the development of new open source tools, scripts or the discovery of vulnerabilities.</p>
