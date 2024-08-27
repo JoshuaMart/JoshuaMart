@@ -97,6 +97,8 @@ des protections loin d’être suffisantes !](https://www.synetis.com/amsi-antiv
 <details>
   <summary>2024</summary>
 
+  * [CVE-2024-8082](https://www.tenable.com/security/research/tra-2024-34) - Authentication Bypass in [Flowise](https://github.com/FlowiseAI/Flowise)
+  * [CVE-2024-8081](https://www.tenable.com/security/research/tra-2024-33) - Unauthenticated Denial of Service in [Flowise](https://github.com/FlowiseAI/Flowise)
   * [CVE-2024-7790](https://www.tenable.com/security/research/tra-2024-31) - Stored Cross-Site Scripting in [DevikaAI](https://github.com/stitionai/devika)
   * [CVE-2024-7297](https://www.tenable.com/security/research/tra-2024-26) - Privilege Escalation in [Langflow](https://github.com/langflow-ai/langflow)
   * [CVE-2024-4960](https://nvd.nist.gov/vuln/detail/CVE-2024-4860) - Reflected Cross-Site Scripting in [WP RSS Aggregator](https://fr.wordpress.org/plugins/wp-rss-aggregator/)
