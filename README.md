@@ -98,6 +98,7 @@ des protections loin d’être suffisantes !](https://www.synetis.com/amsi-antiv
 <details>
   <summary>2024</summary>
 
+  * [CVE-2024-10859](https://www.tenable.com/security/research/tra-2024-44) - Unauthenticated SQL Injection in [Surecart](https://wordpress.org/plugins/surecart/)
   * [CVE-2024-9148](https://www.tenable.com/security/research/tra-2024-40) - Stored Cross-Site Scripting in [Flowise](https://github.com/FlowiseAI/Flowise)
   * [CVE-2024-8182](https://www.tenable.com/security/research/tra-2024-34) - Unauthenticated Denial of Service in [Flowise](https://github.com/FlowiseAI/Flowise)
   * [CVE-2024-7790](https://www.tenable.com/security/research/tra-2024-31) - Stored Cross-Site Scripting in [DevikaAI](https://github.com/stitionai/devika)
