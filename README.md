@@ -96,6 +96,12 @@ des protections loin d’être suffisantes !](https://www.synetis.com/amsi-antiv
 <h2>🏆Achievement & CVE</h2>
 
 <details>
+  <summary>2025</summary>
+
+  * [CVE-2025-2304](https://www.tenable.com/security/research/tra-2025-09) - Privilege Escalation in [Camaleon CMS](https://github.com/owen2345/camaleon-cms)
+</details>
+
+<details>
   <summary>2024</summary>
 
   * [CVE-2024-12015](https://www.tenable.com/security/research/tra-2024-47) - Authenticated SQL Injection in [Project Manager](https://wordpress.org/plugins/wedevs-project-manager/)
