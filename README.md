@@ -7,8 +7,8 @@
   <a href="mailto:contact@jomar.fr">
     <img src="https://img.shields.io/badge/contact@jomar.fr-0078D4?style=for-the-badge&logo=Gmail&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <a href="https://j0mar.substack.com/">
-    <img src="https://img.shields.io/badge/-Substack-blue?style=for-the-badge&logo=Substack&logoColor=00AEFF&labelColor=black&color=black">
+  <a href="https://blog.jomar.fr/">
+    <img src="https://img.shields.io/badge/-Blog-blue?style=for-the-badge&logo=Blogger&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="https://www.linkedin.com/in/joshua-martinelle-a34911133/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
