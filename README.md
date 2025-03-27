@@ -51,9 +51,9 @@
 <details>
   <summary>My latest personnal blog posts</summary>
 
-  * [Recon - Methods & Architectures](https://j0mar.substack.com/p/recon-methods-and-architectures)
-  * [Bruteforce vs Permutations](https://j0mar.substack.com/p/bruteforce_vs_permutations)
-  * [Basic Recon to RCE III](https://j0mar.substack.com/p/basic_recon_to_rce_iii)
+  * [Bruteforce vs Permutations](https://blog.jomar.fr/posts/2023/bruteforce_vs_permutations/)
+  * [Basic recon to RCE III](https://blog.jomar.fr/posts/2022/basic_recon_to_rce_iii/)
+  * [DNS Tools Comparison](https://blog.jomar.fr/posts/2022/dns_tools_comparison/)
 </details>
 
 <details>
