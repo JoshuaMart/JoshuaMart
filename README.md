@@ -98,6 +98,7 @@ des protections loin d’être suffisantes !](https://www.synetis.com/amsi-antiv
 <details>
   <summary>2025</summary>
 
+  * [TRA-2025-34](https://www.tenable.com/security/research/tra-2025-34) - BentoML CVE-2025-54381 (SSRF) Bypass in [BentoML](https://github.com/bentoml/BentoML)
   * [TRA-2025-33](https://www.tenable.com/security/research/tra-2025-33) - Exposed API Key in [Feed Them Social](https://wordpress.org/plugins/feed-them-social/)
   * [TRA-2025-32](https://www.tenable.com/security/research/tra-2025-32) - Exposed API Key in [WP Social Ninja](https://wordpress.org/plugins/wp-social-reviews/)
   * [CVE-2025-2304](https://www.tenable.com/security/research/tra-2025-09) - Privilege Escalation in [Camaleon CMS](https://github.com/owen2345/camaleon-cms)
