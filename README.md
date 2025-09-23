@@ -59,6 +59,7 @@
 <details>
   <summary>Tenable Blog</summary>
 
+  * [Bypass a Patch for BentoML’s Server-Side Request Forgery Vulnerability CVE-2025-54381](https://www.tenable.com/blog/how-tenable-bypassed-patch-for-bentoml-ssrf-vulnerability-CVE-2025-54381)
   * [Identifying Web Cache Poisoning and Web Cache Deception](https://www.tenable.com/blog/identifying-web-cache-poisoning-and-web-cache-deception-how-tenable-web-app-scanning-can-help)
   * [Password Management and Authentication Best Practices](https://www.tenable.com/blog/password-management-and-authentication-best-practices)
   * [Identifying XML External Entity](https://www.tenable.com/blog/identifying-xml-external-entity-how-tenable-io-web-application-scanning-can-help)
