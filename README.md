@@ -30,20 +30,14 @@
 <p>I will continue to work on exciting projects and pursue new challenges, always with a commitment to the field that will only continue to grow. Whether I am working on open source tools, participating in bugbounties, or simply sharing my knowledge with others.</p>
 
 
-<h2>🧰Languages and tools</h2>
+<h2>🧰 My everyday toolkit</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=red" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23FF9A00.svg?style=plastic&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgresql-%23316192.svg?style=plastic&logo=Postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,php,laravel,go,python,javascript,astro" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,docker,git,linux,nginx,postgres,mysql" />
 </p>
 
 <h2>📝Blog Posts & External contribution</h2>
