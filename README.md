@@ -45,9 +45,9 @@
 <details>
   <summary>My latest personnal blog posts</summary>
 
+  * [Hookd: A Lightweight Out-of-Band Interaction Server](https://blog.jomar.fr/posts/2025/hookd/)
   * [Simple Monitoring Solution](https://blog.jomar.fr/posts/2025/simple_monitoring/)
   * [Bruteforce vs Permutations](https://blog.jomar.fr/posts/2023/bruteforce_vs_permutations/)
-  * [Basic recon to RCE III](https://blog.jomar.fr/posts/2022/basic_recon_to_rce_iii/)
 </details>
 
 <details>
