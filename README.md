@@ -6,7 +6,7 @@
   <a href="mailto:contact@jomar.fr">
     <img src="https://img.shields.io/badge/contact@jomar.fr-0078D4?style=for-the-badge&logo=Gmail&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <a href="https://jomar.fr/">
+  <a href="https://www.jomar.fr/">
     <img src="https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=Safari&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="https://www.linkedin.com/in/joshua-martinelle-a34911133/">
@@ -40,6 +40,7 @@
 <details>
   <summary>My latest personal blog posts</summary>
 
+  * [Investigating a Compromised WordPress Site](https://jomar.fr/blog/2026/investigating-compromised-wordpress/)
 </details>
 
 <details>
@@ -155,4 +156,4 @@
 
 <h2>📊 Github Statistics</h2>
 
-![JoshuaMart's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaMart\&show_icons=true\&theme=radical)
+![Stats](./profile/stats.svg)
