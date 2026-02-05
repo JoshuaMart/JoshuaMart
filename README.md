@@ -41,6 +41,27 @@
   <summary>My latest personal blog posts</summary>
 
   * [Investigating a Compromised WordPress Site](https://jomar.fr/blog/2026/investigating-compromised-wordpress/)
+  * [Hookd: A Lightweight Out-of-Band Interaction Server](https://jomar.fr/blog/2025/hookd/index/)
+  * [Simple Monitoring Solution](https://jomar.fr/blog/2025/simple_monitoring/index/)
+  * [Smart Contract Testing in Remix](https://jomar.fr/blog/2025/remix_smart_contract_testing/index/)
+  * [Ethernaut - Dex Two](https://jomar.fr/blog/2025/ethernaut_dex_two/index/)
+  * [Damn Vulnerable Defi : The Rewarder](https://jomar.fr/blog/2025/the_rewarder/index/)
+  * [Damn Vulnerable Defi : Side Entrance](https://jomar.fr/blog/2025/damn-vulnerable-defi-side_entrance/index/)
+  * [Damn Vulnerable Defi : Truster](https://jomar.fr/blog/2025/damn-vulnerable-defi-truster/index/)
+  * [Damn Vulnerable Defi : Naive Receiver](https://jomar.fr/blog/2025/damn-vulnerable-defi-naive_receiver/index/)
+  * [Collaborative Code Auditing](https://jomar.fr/blog/2025/collaborative_code_auditing/index/)
+  * [Damn Vulnerable Defi : Unstoppable](https://jomar.fr/blog/2025/damn-vulnerable-defi-unstopable/index/)
+  * [Extract and monitor bugbounty scopes](https://jomar.fr/blog/2025/extract_and_monitor_bugbounty_scopes/index/)
+  * [Blogging in 2025: My Thoughts](https://jomar.fr/blog/2025/my-perfect-platform/index/)
+  * [Bruteforce vs Permutations](https://jomar.fr/blog/2023/bruteforce-vs-permutations/index/)
+  * [Basic recon to RCE III](https://jomar.fr/blog/2022/basic-recon-to-rce-iii/index/)
+  * [DNS Tools Comparison](https://jomar.fr/blog/2022/dns-tools-comparison/index/)
+  * [Basic recon to RCE II](https://jomar.fr/blog/2022/basic-recon-to-rce-ii/index/)
+  * [My bounty infrastructure](https://jomar.fr/blog/2021/my-bounty-infrastructure/index/)
+  * [Basic recon to RCE](https://jomar.fr/blog/2021/basic-recon-to-rce/index/)
+  * [SSRF Through PDF Generation](https://jomar.fr/blog/2021/ssrf-through-pdf-generation/index/)
+  * [My first OOB XXE exploitation](https://jomar.fr/blog/2021/my-first-oob-xxe-exploitation/index/)
+  * [Binary search in Golang on large files](https://jomar.fr/blog/2021/golang-binary-search/index/)
 </details>
 
 <details>
