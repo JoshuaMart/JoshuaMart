@@ -103,6 +103,13 @@
 <h2>🏆 CVE & Security Research</h2>
 
 <details>
+  <summary>2026</summary>
+
+  * [CVE-2026-2577](https://www.tenable.com/security/research/tra-2026-09) - Broken Authentication in [Nanobot](https://www.tenable.com/security/research/tra-2026-09)
+  * [CVE-2026-25120](https://www.tenable.com/security/research/tra-2026-08) - Broken Authentication in [Gogs](https://www.tenable.com/security/research/tra-2026-08)
+</details>
+
+<details>
   <summary>2025</summary>
 
   * [TRA-2025-50](https://www.tenable.com/security/research/tra-2025-50) - Exposed API Key in [Ultimate Dashboard](https://www.tenable.com/security/research/tra-2025-50)
