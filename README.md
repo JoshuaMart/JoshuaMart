@@ -40,6 +40,7 @@
 <details>
   <summary>My latest personal blog posts</summary>
 
+  * [Building my own AI Agents](https://jomar.fr/blog/2026/building-my-own-ai-agents/index/)
   * [Investigating a Compromised WordPress Site](https://jomar.fr/blog/2026/investigating-compromised-wordpress/)
   * [Hookd: A Lightweight Out-of-Band Interaction Server](https://jomar.fr/blog/2025/hookd/index/)
   * [Simple Monitoring Solution](https://jomar.fr/blog/2025/simple_monitoring/index/)
@@ -105,6 +106,9 @@
 <details>
   <summary>2026</summary>
 
+  * [CVE-2026-3432](https://www.tenable.com/security/research/tra-2026-13) - Sensitive Information Disclosure in [SimStudio](https://www.tenable.com/security/research/tra-2026-13)
+  * [CVE-2026-3431](https://www.tenable.com/security/research/tra-2026-12) - SSRF in [SimStudio](https://www.tenable.com/security/research/tra-2026-12)
+  * [CVE-2026-27167](https://www.tenable.com/security/research/tra-2026-11) - Sensitive Information Disclosure in [Gradio](https://www.tenable.com/security/research/tra-2026-11)
   * [CVE-2026-2577](https://www.tenable.com/security/research/tra-2026-09) - Broken Authentication in [Nanobot](https://www.tenable.com/security/research/tra-2026-09)
   * [CVE-2026-25120](https://www.tenable.com/security/research/tra-2026-08) - Broken Authentication in [Gogs](https://www.tenable.com/security/research/tra-2026-08)
 </details>
