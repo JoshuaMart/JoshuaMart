@@ -106,6 +106,7 @@
 <details>
   <summary>2026</summary>
 
+  * [CVE-2026-27944](https://www.tenable.com/security/research/tra-2026-17) - Sensitive Information Disclosure in [Nginx UI](https://www.tenable.com/security/research/tra-2026-17)
   * [CVE-2026-3432](https://www.tenable.com/security/research/tra-2026-13) - Sensitive Information Disclosure in [SimStudio](https://www.tenable.com/security/research/tra-2026-13)
   * [CVE-2026-3431](https://www.tenable.com/security/research/tra-2026-12) - SSRF in [SimStudio](https://www.tenable.com/security/research/tra-2026-12)
   * [CVE-2026-27167](https://www.tenable.com/security/research/tra-2026-11) - Sensitive Information Disclosure in [Gradio](https://www.tenable.com/security/research/tra-2026-11)
