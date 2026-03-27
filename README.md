@@ -106,6 +106,12 @@
 <details>
   <summary>2026</summary>
 
+  * [CVE-2026-5027](https://www.tenable.com/security/research/tra-2026-26) - Path Traversal in [Langflow](https://www.tenable.com/security/research/tra-2026-26)
+  * [CVE-2026-5026](https://www.tenable.com/security/research/tra-2026-25) - Stored XSS in [Langflow](https://www.tenable.com/security/research/tra-2026-25)
+  * [CVE-2026-5025](https://www.tenable.com/security/research/tra-2026-24) - Broken Authentication in [Langflow](https://www.tenable.com/security/research/tra-2026-24)
+  * [CVE-2026-5022](https://www.tenable.com/security/research/tra-2026-23) - Broken Authentication in [Langflow](https://www.tenable.com/security/research/tra-2026-23)
+  * [CVE-2026-4984](https://www.tenable.com/security/research/tra-2026-22) - SSRF in [Botpress](https://www.tenable.com/security/research/tra-2026-22)
+  * [TRA-2026-21](https://www.tenable.com/security/research/tra-2026-21) - Authorization Bypass in [Midday](https://www.tenable.com/security/research/tra-2026-21)
   * [CVE-2026-27944](https://www.tenable.com/security/research/tra-2026-17) - Sensitive Information Disclosure in [Nginx UI](https://www.tenable.com/security/research/tra-2026-17)
   * [CVE-2026-3432](https://www.tenable.com/security/research/tra-2026-13) - Sensitive Information Disclosure in [SimStudio](https://www.tenable.com/security/research/tra-2026-13)
   * [CVE-2026-3431](https://www.tenable.com/security/research/tra-2026-12) - SSRF in [SimStudio](https://www.tenable.com/security/research/tra-2026-12)
