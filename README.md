@@ -106,6 +106,8 @@
 <details>
   <summary>2026</summary>
 
+  * [CVE-2026-9065](https://www.tenable.com/security/research/tra-2026-43) - SQL Injection in [Surecart](https://www.tenable.com/security/research/tra-2026-43)
+  * [CVE-2026-9059](https://www.tenable.com/security/research/tra-2026-42) - SQL Injection in [NextGEN Gallery](https://www.tenable.com/security/research/tra-2026-42)
   * [CVE-2026-44706](https://www.tenable.com/security/research/tra-2026-41) - SQL Injection in [Chatwoot](https://www.tenable.com/security/research/tra-2026-41)
   * [TRA-2026-32](https://www.tenable.com/security/research/tra-2026-32) - Path Traversal in [Flowise](https://www.tenable.com/security/research/tra-2026-32)
   * [CVE-2026-41274](https://www.tenable.com/security/research/tra-2026-31) - SQL Injection in [Flowise](https://www.tenable.com/security/research/tra-2026-31)
