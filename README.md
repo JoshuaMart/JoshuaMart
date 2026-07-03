@@ -106,6 +106,7 @@
 <details>
   <summary>2026</summary>
 
+  * [CVE-2026-20896](https://blog.gitea.com/release-of-1.26.3-and-1.26.4/) - Broken Authentication in [Gitea](https://blog.gitea.com/release-of-1.26.3-and-1.26.4/)
   * [CVE-2026-25119](https://www.tenable.com/security/research/tra-2026-50) - Broken Authentication in [Gogs](https://www.tenable.com/security/research/tra-2026-50)
   * [CVE-2026-9065](https://www.tenable.com/security/research/tra-2026-43) - SQL Injection in [Surecart](https://www.tenable.com/security/research/tra-2026-43)
   * [CVE-2026-9059](https://www.tenable.com/security/research/tra-2026-42) - SQL Injection in [NextGEN Gallery](https://www.tenable.com/security/research/tra-2026-42)
