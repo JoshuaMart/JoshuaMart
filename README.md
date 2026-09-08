@@ -40,6 +40,7 @@
 <details>
   <summary>My latest personal blog posts</summary>
 
+  * [Bugbounty agent benchmark](https://jomar.fr/blog/2026/bugbounty-agent-benchmark/index/)
   * [Building my own AI Agents](https://jomar.fr/blog/2026/building-my-own-ai-agents/index/)
   * [Investigating a Compromised WordPress Site](https://jomar.fr/blog/2026/investigating-compromised-wordpress/)
   * [Hookd: A Lightweight Out-of-Band Interaction Server](https://jomar.fr/blog/2025/hookd/index/)
