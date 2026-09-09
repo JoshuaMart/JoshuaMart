@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Joshua MARTINELLE&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 434, Total Commits  (last year) : 1775, Total PRs: 359, Total Issues: 75, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 434, Total Commits  (last year) : 1776, Total PRs: 359, Total Issues: 75, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 28.3061456383415;
+        stroke-dashoffset: 28.30530024432134;
       }
     }
   
