@@ -107,6 +107,11 @@
 <details>
   <summary>2026</summary>
 
+  * [TRA-2026-65](https://www.tenable.com/security/research/tra-2026-65) - Broken Authentication in [Hermes Agent](https://www.tenable.com/security/research/tra-2026-65)
+  * [TRA-2026-64](https://www.tenable.com/security/research/tra-2026-64) - Denial of Service in [Hermes Agent](https://www.tenable.com/security/research/tra-2026-64)
+  * [TRA-2026-63](https://www.tenable.com/security/research/tra-2026-63) - Denial of Service in [Hermes Agent](https://www.tenable.com/security/research/tra-2026-63)
+  * [CVE-2026-108125](https://www.tenable.com/security/research/tra-2026-62) - SQL Injection in [WordPress Post Author](https://www.tenable.com/security/research/tra-2026-62)
+  * [CVE-2026-108124](https://www.tenable.com/security/research/tra-2026-61) - SQL Injection in [WordPress Post Author](https://www.tenable.com/security/research/tra-2026-61)
   * [CVE-2026-82123](https://www.tenable.com/security/research/tra-2026-57) - Reflected XSS in [WordPress Loops & Logic](https://www.tenable.com/security/research/tra-2026-57)
   * [CVE-2026-18197](https://www.tenable.com/security/research/tra-2026-52) - Reflected XSS in [Link Library](https://www.tenable.com/security/research/tra-2026-52)
   * [CVE-2026-20896](https://blog.gitea.com/release-of-1.26.3-and-1.26.4/) - Broken Authentication in [Gitea](https://blog.gitea.com/release-of-1.26.3-and-1.26.4/)
