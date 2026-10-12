@@ -40,6 +40,7 @@
 <details>
   <summary>My latest personal blog posts</summary>
 
+  * [AI agents finding bugs in an AI agent](https://jomar.fr/blog/2026/ai-agents-finding-bugs-in-an-ai-agent/index/)
   * [Bugbounty agent benchmark](https://jomar.fr/blog/2026/bugbounty-agent-benchmark/index/)
   * [Building my own AI Agents](https://jomar.fr/blog/2026/building-my-own-ai-agents/index/)
   * [Investigating a Compromised WordPress Site](https://jomar.fr/blog/2026/investigating-compromised-wordpress/)
