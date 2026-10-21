@@ -108,6 +108,7 @@
 <details>
   <summary>2026</summary>
 
+  * [CVE-2026-114437](https://www.tenable.com/security/research/tra-2026-66) - Broken Authorization in [Golang Chi](https://www.tenable.com/security/research/tra-2026-66)
   * [TRA-2026-65](https://www.tenable.com/security/research/tra-2026-65) - Broken Authentication in [Hermes Agent](https://www.tenable.com/security/research/tra-2026-65)
   * [TRA-2026-64](https://www.tenable.com/security/research/tra-2026-64) - Denial of Service in [Hermes Agent](https://www.tenable.com/security/research/tra-2026-64)
   * [TRA-2026-63](https://www.tenable.com/security/research/tra-2026-63) - Denial of Service in [Hermes Agent](https://www.tenable.com/security/research/tra-2026-63)
